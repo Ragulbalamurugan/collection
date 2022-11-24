@@ -96,11 +96,11 @@ public class Sample {
 			System.out.println(d);
 		}
 
-//		for (int i = 0; i < num.size(); i++) {
-//			if (num.get(i) % 2 == 0) {
-//				System.out.println(num.get(i) + " is a even double value");
-//			}
-//		}
+		for (int i = 0; i < num.size(); i++) {
+			if (num.get(i) % 2 == 0) {
+				System.out.println(num.get(i) + " is a even double value");
+			}
+		}
 
 	}
 
